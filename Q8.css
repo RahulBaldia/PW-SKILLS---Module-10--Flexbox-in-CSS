@@ -1,0 +1,39 @@
+body{
+    background-color: #1a123b;
+}
+img.first{
+    position: absolute;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 680px;
+    border: 5px solid #ffff;
+}
+img.sec{
+    position: absolute;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 400px;
+    border: 5px solid #ffff;
+}
+img.third{
+    position: absolute;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 540px;
+    border: 5px solid #ffff;
+}
+img.fourth{
+    position: absolute;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 820px;
+    border: 5px solid #ffff;
+}

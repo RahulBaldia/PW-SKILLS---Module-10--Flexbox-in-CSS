@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    margin-top: 280px;
+    font-size: 80px;
+}
+body{
+    background-color: #1c1919;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+}
+input{
+    position: absolute;
+    width: 720px;
+    height: 50px;
+    border: 2px solid #464343;
+    margin-left: 315px;
+    margin-top: 110px;
+    border-radius: 105px;
+    background-color: transparent;
+    padding-left: 70px;
+    color: #fff;
+    font-size: 20px;
+}
+img.lens{
+    position: absolute;
+    width: 40px;
+    height: 70px;
+    margin-left: 1040px;
+    margin-top: 100px;
+}
+img.search{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-left: 340px;
+    margin-top: 125px;
+}
+img.micro{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    margin-left: 970px;
+    margin-top: 110px;
+}

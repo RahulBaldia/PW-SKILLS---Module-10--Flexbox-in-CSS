@@ -1,0 +1,107 @@
+body{
+    background-color: #b0b0f4;
+}
+h1{
+    text-align: center;
+    margin-top: 25px;
+    color: #0000ff65;
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.card1{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    background-color: #ffff;
+    margin-left: 180px;
+    border-radius: 15px;
+}
+.card2{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    background-color: #ffff;
+    margin-left: 580px;
+    border-radius: 15px;
+}
+.card3{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    background-color: #ffff;
+    margin-left: 980px;
+    border-radius: 15px;
+}
+img.first{
+    position:absolute;
+    width: 320px;
+    margin-left: 195px;
+    margin-top: 15px;
+}
+img.sec{
+    position:absolute;
+    width: 320px;
+    margin-left: 595px;
+    margin-top: 15px;
+}
+img.third{
+    position: absolute;
+    width: 320px;
+    margin-left: 995px;
+    margin-top: 15px;
+}
+h4{
+    position: absolute;
+    color: #482fd2;
+    font-size: 20px;
+}
+p{
+    position: absolute;
+}
+h4.firsthed{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+h4.seched{
+    margin-top: 200px;
+    margin-left: 600px;
+}
+h4.thirdhed{
+    margin-top: 200px;
+    margin-left: 1000px;
+}
+h5{
+    position: absolute;
+    font-size: 20px;
+}
+h6{
+    position: absolute;
+    font-size: 15px;
+}
+h5.hit{
+    margin-top: 260px;
+    margin-left: 200px;
+}
+h5.vis{
+    margin-top: 260px;
+    margin-left: 600px;
+}
+h5.pri{
+    margin-top: 260px;
+    margin-left: 1000px;
+}
+h6.FR1{
+    margin-top: 300px;
+    margin-left: 200px;
+}
+h6.FR2{
+    margin-top: 300px;
+    margin-left: 600px;
+}
+h6.FR3{
+    margin-top: 300px;
+    margin-left: 1000px;
+}

@@ -1,0 +1,130 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Montserrat', sans-serif;
+}
+.last{
+    background-color: #000000;
+    min-height: 80vh;
+    width: 100%;
+    position: relative;
+    margin-top: 300px;
+}
+img.pws{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 180px;
+    width: 150px;
+    height: 150px;
+}
+h3.em{
+    position: absolute;
+    color: #ffff;
+    margin-top: 140px;
+    margin-left: 195px;
+}
+h5.sup{
+    position: absolute;
+    color: #ffff;
+    margin-top: 170px;
+    margin-left: 195px;
+}
+img{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 170px;
+    width: 180px;
+    height: 270px
+}
+h1.pw{
+    color: #ffff;
+    position: absolute;
+    margin-top: 68px;
+    margin-left: 600px;
+}
+h1.pr{
+    color: #ffff;
+    position: absolute;
+    margin-top: 68px;
+    margin-left: 950px;
+}
+div.line1{
+    border-bottom: 2px solid #ffd700;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 600px;
+    width: 200px;
+}
+div.line2{
+    border-bottom: 2px solid #ffd700;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 950px;
+    width: 200px;
+}
+h5.ab{
+    position:absolute;
+    margin-top: 170px;
+    margin-left: 600px;
+    color: #ffff;
+}
+h5.fa{
+    position:absolute;
+    margin-top: 225px;
+    margin-left: 600px;
+    color: #ffff;
+}
+h5.pol{
+    position:absolute;
+    margin-top: 280px;
+    margin-left: 600px;
+    color: #ffff;
+}
+h5.con{
+    position:absolute;
+    margin-top: 170px;
+    margin-left: 750px;
+    color: #ffff;
+}
+h5.job{
+    position:absolute;
+    margin-top: 215px;
+    margin-left: 750px;
+    color: #ffff;
+}
+h5.term{
+    position:absolute;
+    margin-top: 270px;
+    margin-left: 750px;
+    color: #ffff;
+}
+h5.skills{
+    position:absolute;
+    margin-top: 170px;
+    margin-left: 950px;
+    color: #ffff;
+}
+h5.portal{
+    position:absolute;
+    margin-top: 210px;
+    margin-left: 950px;
+    color: #ffff;
+}
+h5.exp{
+    position:absolute;
+    margin-top: 250px;
+    margin-left: 950px;
+    color: #ffff;
+}
+h5.bec{
+    position:absolute;
+    margin-top: 290px;
+    margin-left: 950px;
+    color: #ffff;
+}
+h5.hall{
+    position:absolute;
+    margin-top: 330px;
+    margin-left: 950px;
+    color: #ffff;
+}

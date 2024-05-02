@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto Slab', serif;
+}
+img.logo{
+    width: 70px;
+    height: 40px;
+}
+.hero{
+    background:#ffffff;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding: 10px 5%;
+    box-shadow: 1px 2px #a1a1a1e6;
+}
+nav h1{
+    margin-left: 8px;
+}
+.button1{
+    background: #fff;
+    color: #0644ed;
+    height: 45px;
+    width: 100px;
+    margin-left: 600px;
+    border: 2px solid #ffffff;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    border-radius: 3px ;
+}
+.button1:hover{
+    border: 2px solid #edf4f9e6;
+    background:#edf4f9e6;
+}
+.button2{
+    background: #fff;
+    color: #124def;
+    height: 45px;
+    width: 100px;
+    margin-left: 80px;
+    border: 1px solid #124def;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.button3{
+    background: #124def;
+    color: #fff;
+    height: 45px;
+    width: 230px;
+    margin-left: 50px;
+    border: 1px solid #124def;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.text-container{
+    max-width:800px ;
+    margin-top: 7%;
+    margin-left:8% ;
+}
+.text-container h1{
+    font-size:60px ;
+    font-weight:300 ;
+}
+.text-container h2{
+    margin-top: 4%;
+    font-family: 'Roboto', sans-serif;
+    color: #9f9f9f; 
+    font-size: 300;
+    word-spacing: 0px;
+}
+.button4{
+    background: #124def;
+    color: #fff;
+    height: 45px;
+    width: 230px;
+    margin-left: 110px;
+    margin-top: 30px;
+    border: 1px solid #124def;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.button5{
+    background: #fff;
+    color: #0644ed;
+    height: 45px;
+    width: 100px;
+    margin-left: 35px;
+    border: 2px solid #ffffff;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    border-radius: 3px ;
+}
+.button5:hover{
+    border: 2px solid #edf4f9e6;
+    background:#edf4f9e6;
+}
+img.big{
+    width: 680px;
+    height: 500px;
+    position: absolute;
+    margin-left: 700px;
+}
